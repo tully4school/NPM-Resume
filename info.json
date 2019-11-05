@@ -1,0 +1,28 @@
+{
+    "name": "Joseph Tully",
+    "website": "https://tully4school.github.io/",
+    "linkedin": "https://www.linkedin.com/in/joseph-tully-81a97392/",
+    "github": "tully4school",
+    "email": "tully4school@gmail.com",
+    "proficientTechnologies": [
+        "HTML5"
+        "CSS3"
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "NPM",
+        "Storybook"
+    ],
+    "otherSkills": [
+        "Unagi",
+        "Five Finger Fillet",
+        "Bridge"
+    ]
+}

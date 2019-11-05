@@ -1,0 +1,21 @@
+{
+	"name": "jtully-resume",
+	"version": "1.0.0",
+	"description": "Resume for Joseph Tully",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "JTully-Resume"
+	},
+	"keywords": [
+		"resume"
+	],
+	"author": "Joseph Tully",
+	"license": "ISC",
+	"bin": {
+		"your-command-here": "./index.js"
+	}
+}
